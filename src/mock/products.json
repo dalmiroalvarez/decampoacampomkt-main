@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "25% descuento, Calostro 100",
+    "subTitle": "Calostro Bovino Deshidratado",
+    "price": 25000,
+    "description": "Calostro Bovino Deshidratado en Polvo. Elaborado solamente a base de calostro bovino natural ideal para complementar o reemplazar el calostro materno en recién nacidos . EL contenido del paquete se puede disolver fácilmente en 1.25 lt. de agua. Peso Neto: 700 g de Polvo Contiene 100 g de IgG",
+    "image": "producto1.png"
+  },
+  {
+    "id": "2",
+    "title": "5% descuento. Termo Stanley",
+    "subTitle": "Set de mate marca Stanley",
+    "price": 30000,
+    "description": "Calostro Bovino Deshidratado en Polvo. Elaborado solamente a base de calostro bovino natural ideal para complementar o reemplazar el calostro materno en recién nacidos . EL contenido del paquete se puede disolver fácilmente en 1.25 lt. de agua. Peso Neto: 700 g de Polvo Contiene 100 g de IgG",
+    "image": "premio2.webp"
+  }
+]
